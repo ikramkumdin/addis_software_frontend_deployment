@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/addis_software_frontend_deployment/static/js/main.5eb549a1.js",
+    "static/media/Logo.png": "/addis_software_frontend_deployment/static/media/Logo.b69c4e34453782b1407d.png",
+    "index.html": "/addis_software_frontend_deployment/index.html",
+    "main.5eb549a1.js.map": "/addis_software_frontend_deployment/static/js/main.5eb549a1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5eb549a1.js"
+  ]
+}
